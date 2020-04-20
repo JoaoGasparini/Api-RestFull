@@ -1,0 +1,6 @@
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.Comum.Repositorios.Interfaces\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.Comum.Repositorios.Interfaces\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.pdb
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.Comum.Repositorios.Interfaces\obj\Debug\TreinaWeb.Comum.Repositorios.Interfaces.csprojAssemblyReference.cache
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.Comum.Repositorios.Interfaces\obj\Debug\TreinaWeb.Comum.Repositorios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.Comum.Repositorios.Interfaces\obj\Debug\TreinaWeb.Comum.Repositorios.Interfaces.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.Comum.Repositorios.Interfaces\obj\Debug\TreinaWeb.Comum.Repositorios.Interfaces.pdb
