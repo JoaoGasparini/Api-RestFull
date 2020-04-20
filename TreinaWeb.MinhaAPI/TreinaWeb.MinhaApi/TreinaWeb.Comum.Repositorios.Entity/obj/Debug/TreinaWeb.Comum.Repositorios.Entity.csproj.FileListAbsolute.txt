@@ -1,0 +1,26 @@
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.dll.config
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.dll
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.pdb
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.dll
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.dll
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.pdb
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.xml
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csprojResolveAssemblyReference.cache
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.dll
+c:\Users\clebe\Documents\Visual Studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.pdb
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.dll.config
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.pdb
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Interfaces.pdb
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.xml
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csprojAssemblyReference.cache
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csproj.CoreCompileInputs.cache
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csproj.CopyComplete
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.pdb

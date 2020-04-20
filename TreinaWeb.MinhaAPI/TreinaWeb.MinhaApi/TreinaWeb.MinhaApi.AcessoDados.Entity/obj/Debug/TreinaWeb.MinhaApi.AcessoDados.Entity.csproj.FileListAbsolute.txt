@@ -1,0 +1,30 @@
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll.config
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.pdb
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.dll
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.Dominio.dll
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.Dominio.pdb
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.xml
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csprojResolveAssemblyReference.cache
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.pdb
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.Migrations.CriacaoTabelaAlunos.resources
+c:\users\clebe\documents\visual studio 2015\Projects\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csproj.GenerateResource.Cache
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll.config
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.pdb
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.Dominio.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.Dominio.pdb
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.xml
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csprojAssemblyReference.cache
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.Migrations.CriacaoTabelaAlunos.resources
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csproj.GenerateResource.cache
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csproj.CoreCompileInputs.cache
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csproj.CopyComplete
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll
+C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.pdb

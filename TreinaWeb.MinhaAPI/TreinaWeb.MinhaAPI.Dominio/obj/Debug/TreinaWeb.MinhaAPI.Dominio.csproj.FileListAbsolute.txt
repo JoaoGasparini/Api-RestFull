@@ -1,6 +1,0 @@
-C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.MinhaAPI.Dominio\bin\Debug\TreinaWeb.MinhaAPI.Dominio.dll
-C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.MinhaAPI.Dominio\bin\Debug\TreinaWeb.MinhaAPI.Dominio.pdb
-C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.MinhaAPI.Dominio\obj\Debug\TreinaWeb.MinhaAPI.Dominio.csprojAssemblyReference.cache
-C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.MinhaAPI.Dominio\obj\Debug\TreinaWeb.MinhaAPI.Dominio.csproj.CoreCompileInputs.cache
-C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.MinhaAPI.Dominio\obj\Debug\TreinaWeb.MinhaAPI.Dominio.dll
-C:\Users\joao\Desktop\Joao_estudos\API RESTFULL\aplicacao\TreinaWeb.MinhaAPI\TreinaWeb.MinhaAPI.Dominio\obj\Debug\TreinaWeb.MinhaAPI.Dominio.pdb
